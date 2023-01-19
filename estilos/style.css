@@ -61,3 +61,33 @@ div#formulario > h1 {
 div#formulario > p {
     font-size: 0.8em;
 }
+
+input#ibotao {
+    display: block;
+    font-size: 1em;
+    border-radius: 5px;
+    width: 100%;
+    padding: 2px;
+    margin-top: 5px;
+    border: 1px solid black;
+}
+
+input#ibotao:hover {
+    background-color: rgb(224, 224, 224);
+}
+
+form > div > a.botao:hover {
+    background-color: rgb(224, 224, 224);
+}
+
+form > div > a.botao {
+    text-decoration: none;
+    border-radius: 5px;
+    color: black;
+    display: block;
+    padding: 2px;
+    width: 100%;
+    margin-top: 2px;
+    text-align: center;
+    border: 1px solid black;
+}
