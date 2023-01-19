@@ -14,7 +14,7 @@
         width: 40%;
         height: 100%;
     }
-
+    
     section#login div#formulario {
         float: right;
         width: 60%;
@@ -25,7 +25,7 @@
     body {
         background-image: linear-gradient(to top, #49a09d, #5f2c82);
     }
-    
+
     section#login {
         width: 900px;
     }
